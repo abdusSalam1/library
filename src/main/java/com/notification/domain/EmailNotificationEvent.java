@@ -1,4 +1,4 @@
-package com.notification;
+package com.notification.domain;
 
 import lombok.Builder;
 
